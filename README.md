@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kshitijgautam7
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning andriod devlopment, java, kotlin.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects.
 - 📫 My email : kshitijgautam007@gmail.com
 
 <!---
